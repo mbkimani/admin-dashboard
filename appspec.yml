@@ -4,4 +4,4 @@ os: linux
 
 files:
   - source: /
-  - destination: /var/app/current/myapp
+  - destination: /
